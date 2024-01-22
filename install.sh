@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 
 sudo pacman -Syu
-sudo pacman -S base-delevel
+sudo pacman -S base-devel
 
 ./basic_pkg.sh
 ./fonts.sh
 ./hypr_util.sh
 ./neovim.sh
-./dotfiles.sh
 ./node.sh
 ./zsh.sh
+./dotfiles.sh
 
 sudo pacman -Sy
 reboot
