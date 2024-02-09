@@ -5,3 +5,4 @@ tar -xvf nvim-linux64.tar.gz
 mv nvim-linux64 nvim
 rm -f nvim-linux64.tar.gz
 sudo mv nvim /opt
+git clone https://github.com/Merami6f/LazyConfig.git ~/.config/nvim
