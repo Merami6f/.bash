@@ -7,6 +7,7 @@ sudo pacman -S base-devel --noconfirm
 ./hypr_util.sh
 ./neovim.sh
 ./node.sh
+./zsh.sh
 ./dotfiles.sh
 
 sudo pacman -Sy
