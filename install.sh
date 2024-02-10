@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-sudo pacman -Syu
-sudo pacman -S base-devel
+sudo pacman -S base-devel --noconfirm
 
 ./basic_pkg.sh
 ./fonts.sh
