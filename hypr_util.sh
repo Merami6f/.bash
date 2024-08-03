@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-declare -a util=(stow rofi waybar swayidle cliphist wl-clipboard hyprpaper)
+declare -a util=(stow rofi-wayland waybar hypridle cliphist wl-clipboard hyprpaper mpd ncmpcpp mpc)
 
 for u in ${util[@]}
 do
