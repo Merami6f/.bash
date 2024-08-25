@@ -1,4 +1,4 @@
-type zsh to make sure zsh is totaly can use
+type zsh to make sure zsh is installed
 source ~/.config/.zshrc
 to make zsh default use : chsh -l
 chsh -s /full/path/zsh

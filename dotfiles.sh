@@ -2,5 +2,5 @@
 
 rm -rf ~/.config/hypr/
 rm -rf ~/.config/kitty/
-cd $HOME/.dotfiles
+cd $HOME/dotfiles
 stow .
