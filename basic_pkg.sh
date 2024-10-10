@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 declare -a standard=(fzf fd zsh curl wget ripgrep bat lsd xclip man-db man-pages)
-declare -a needed=(unzip cmake bear ninja ncmpcpp mpd mpc)
+declare -a needed=(unzip cmake ncmpcpp mpd mpc)
 
 
   for z in ${standard[@]} 
