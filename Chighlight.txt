@@ -1,0 +1,4 @@
+red= #f92673
+orange= #ff9700
+cyan= #00cccc
+green= #5BEA03
