@@ -3,7 +3,7 @@
 sudo pacman -S base-devel --noconfirm
 
 ./basic_pkg.sh
-./hypr_util.sh
 ./zsh.sh
+./fonts.sh
 
 sudo pacman -Sy

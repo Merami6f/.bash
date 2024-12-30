@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-declare -a standard=(cmake fzf fd zsh curl wget ripgrep bat lsd xclip man-db man-pages)
+declare -a standard=(stow fzf fd zsh curl wget ripgrep bat lsd xclip man-db man-pages)
 declare -a needed=(unzip ncmpcpp mpd mpc)
 
 
