@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-sudo pacman -S base-devel --noconfirm
 
 ./basic_pkg.sh
 ./zsh.sh
 ./fonts.sh
+./hypr_util.sh
 
 sudo pacman -Sy
