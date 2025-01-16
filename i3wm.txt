@@ -1,0 +1,2 @@
+ packages
+ i3wm i3lock xorg xorg-xinit polybar rofi
