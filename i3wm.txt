@@ -1,2 +1,7 @@
  packages
- i3wm i3lock xorg xorg-xinit polybar rofi
+ i3wm i3lock xorg xorg-xinit polybar rofi feh
+
+ sudo cp /etc/X11/xinit/xinitrc ~/.xinitrc
+
+ delete 5 bottom line
+ exec i3
