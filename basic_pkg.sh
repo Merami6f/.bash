@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 declare -a standard=(stow fzf fd zsh curl wget ripgrep bat lsd xclip man-db man-pages)
-declare -a needed=(tree ctags unzip ncmpcpp mpd mpc alacritty tmux)
+declare -a needed=(nnn tree ctags unzip ncmpcpp mpd mpc alacritty tmux)
 
 
   for z in ${standard[@]} 
