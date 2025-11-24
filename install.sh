@@ -6,4 +6,5 @@
 ./fonts.sh
 ./hypr_util.sh
 
+sudo cp -r ~/.bash/IosevkaCustom /usr/share/fonts
 sudo pacman -Sy
