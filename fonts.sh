@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-font=IosevkaTerm
-version=3.1.1
-
 declare -a fonts=(ttf-nerd-fonts-symbols noto-fonts-cjk)
 
 for u in ${fonts[@]}
