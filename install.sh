@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-
+./folder.sh
 ./basic_pkg.sh
 ./zsh.sh
 ./fonts.sh
