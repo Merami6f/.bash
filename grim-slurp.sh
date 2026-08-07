@@ -9,4 +9,4 @@ do
 done
 
 
-mkdir ~/Pictures/Screenshots
+mkdir -p ~/Pictures/Screenshots
