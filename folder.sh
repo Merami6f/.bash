@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-declare -a folder=(Documents Downloads Pictures Screenshots)
+declare -a folder=(Documents Downloads Pictures)
 
 	for z in ${folder[@]}
 	do
